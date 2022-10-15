@@ -68,11 +68,12 @@ body {
   color: white;
 }
 #background_image {
-  width: 1360px;
+  width: 1900px;
   height: 600px;
   margin-top: 0px;
   margin-left: -8px;
   background-image: url(./Images/intro-1596487325.jpg);
+  background-repeat: no-repeat;
   background-size: 80%;
 }
 #icon2 {
